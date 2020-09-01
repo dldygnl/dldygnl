@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsjeffersonli)](https://github.com/itsjeffersonli/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsjeffersonli&show_icons=true&theme=radical)
 <!--
 **itsjeffersonli/itsjeffersonli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
