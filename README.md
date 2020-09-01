@@ -1,4 +1,6 @@
 ###  Hi,Im John Jefferson Li [:computer::triangular_flag_on_post::coffee:]
+
+<a href="https://www.facebook.com/itsjeffersonli"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"></a>
 [![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=radical&hide=javascript)](https://github.com/itsjeffersonli/github-readme-stats)
 
 Here are some ideas to get you started:
