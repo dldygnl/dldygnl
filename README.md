@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
 
 ## <img src="https://img.icons8.com/color/48/000000/operating-system--v1.png"/>  Operating Systems
-<img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
+<a><img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 <img src="https://img.icons8.com/metro/26/000000/mac-os.png"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
