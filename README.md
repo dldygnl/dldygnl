@@ -14,10 +14,11 @@
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" >
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
 
-##  Operating Systems
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/789052f858a8b8dcc3f1d5e2961e945f75c75b9c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67"><img src="https://camo.githubusercontent.com/789052f858a8b8dcc3f1d5e2961e945f75c75b9c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67" alt="Windows" data-canonical-src="https://img.icons8.com/color/30/windows-10.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bd20a9f9db2305696d3f290e8ff27672a4630fc9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f7562756e74752d2d76312e706e67"><img src="https://camo.githubusercontent.com/bd20a9f9db2305696d3f290e8ff27672a4630fc9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f7562756e74752d2d76312e706e67" alt="Ubuntu" data-canonical-src="https://img.icons8.com/color/30/ubuntu--v1.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/df3c5b069d4d97f10bdeae1c7e4d9b2803b231e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6b616c692d6c696e75782e706e67"><img src="https://camo.githubusercontent.com/df3c5b069d4d97f10bdeae1c7e4d9b2803b231e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6b616c692d6c696e75782e706e67" alt="Kali Linux" data-canonical-src="https://img.icons8.com/color/30/kali-linux.png" style="max-width:100%;"></a>
+## <img src="https://img.icons8.com/color/48/000000/operating-system--v1.png"/>  Operating Systems
+<img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
+<img src="https://img.icons8.com/metro/26/000000/mac-os.png"/>
+<img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
 
 ![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=Gradient&hide=javascript&layout=compact)
 
