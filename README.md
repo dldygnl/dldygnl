@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats-theta-virid.vercel.app/api/top-langs/?username=itsjeffersonli&layout=compact&theme=radical)](https://github.com/itsjeffersonli/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&layout=compact&theme=radical)](https://github.com/itsjeffersonli/github-readme-stats)
 <!--
 **itsjeffersonli/itsjeffersonli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
