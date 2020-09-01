@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" >
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
 
+##  Operating Systems
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/789052f858a8b8dcc3f1d5e2961e945f75c75b9c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67"><img src="https://camo.githubusercontent.com/789052f858a8b8dcc3f1d5e2961e945f75c75b9c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67" alt="Windows" data-canonical-src="https://img.icons8.com/color/30/windows-10.png" style="max-width:100%;"></a>
+
 
 ![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=radical&hide=javascript)
 
