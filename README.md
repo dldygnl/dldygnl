@@ -20,5 +20,5 @@
 <img src="https://img.icons8.com/material/48/000000/mac-client.png"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
 
-![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=Gradient&hide=javascript&layout=compact)
+![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=synthwave&hide=javascript&layout=compact)
 
