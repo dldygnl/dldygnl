@@ -4,8 +4,7 @@
 
 
 
-<br>
-[![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=radical&hide=javascript)](https://github.com/itsjeffersonli/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=radical&hide=javascript)(https://github.com/itsjeffersonli/github-readme-stats)
 
 Here are some ideas to get you started:
 
