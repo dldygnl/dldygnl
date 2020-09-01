@@ -27,4 +27,4 @@
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
-![itsjeffersonli github stats](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api?username=itsjeffersonlia&show_icons=true)
+![itsjeffersonli github stats](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api?username=itsjeffersonli&show_icons=true&theme=synthwave)
