@@ -25,5 +25,6 @@
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
 <img src="https://img.icons8.com/plasticine/48/000000/parrot.png"/>
 
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
-
+![itsjeffersonli github stats](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api?username=itsjeffersonlia&show_icons=true)
