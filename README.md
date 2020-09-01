@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" >
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
 
-## <img src="https://img.icons8.com/color/48/000000/operating-system--v1.png"/>  Operating Systems
+## <img src="https://img.icons8.com/color/32/000000/operating-system--v1.png"/>  Operating Systems
 <a><img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
-<img src="https://img.icons8.com/metro/26/000000/mac-os.png"/>
+<img src="https://img.icons8.com/material/48/000000/mac-client.png"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
 
 ![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=Gradient&hide=javascript&layout=compact)
