@@ -1,4 +1,4 @@
-#  Hi, Im John Jefferson Li [:computer::black_flag::coffee:<img src="https://img.icons8.com/emoji/26/000000/philippines-emoji.png"/>]
+#  Hi, Im John Jefferson Li [:computer::black_flag::coffee:<img src="https://img.icons8.com/color/48/000000/philippines-circular.png"/>]
 
 <a href="https://www.facebook.com/itsjeffersonli"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/john-jefferson-li-3b86811b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
