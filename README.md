@@ -31,4 +31,4 @@
 
 ## <img src="https://img.icons8.com/doodle/26/000000/money.png"/> Donations
 <a href="paypal.me/JohnJeffersonLi"><img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" style="max-width:100%;"></a>
-<a href="https://www.buymeacoffee.com/itsjeffersonli" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/itsjeffersonli" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" style=" max-width:100% !important;" ></a>
