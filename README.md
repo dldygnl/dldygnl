@@ -39,7 +39,7 @@
 
 ## CTF Platforms
 ### TryHackMe
-
+<img src="https://github.com/itsjeffersonli/itsjeffersonli/blob/master/RUN3.png">
 
 ### HacktheBox
 <img src="http://www.hackthebox.eu/badge/image/223654" alt="Hack The Box">
