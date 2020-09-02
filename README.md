@@ -39,7 +39,7 @@
 
 ## CTF Platforms
 ### TryHackMe
-<script src="https://tryhackme.com/badge/9841"></script>
+
 
 ### HacktheBox
 <img src="http://www.hackthebox.eu/badge/image/223654" alt="Hack The Box">
