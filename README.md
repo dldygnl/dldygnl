@@ -2,9 +2,9 @@
 
 <a href="https://www.facebook.com/itsjeffersonli"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/john-jefferson-li-3b86811b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:lijohnjefferson@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="mailto:2542067802@qq.com"><img src="https://img.shields.io/badge/QQ-%23EB1923.svg?&style=for-the-badge&logo=Tencent%20QQ&logoColor=white" style="max-width:100%;"></a>
 <a href="itsjeffersonli.github.io/wechat"><img src="https://img.shields.io/badge/WeChat-%237BB32E.svg?&style=for-the-badge&logo=WeChat&logoColor=white" style="max-width:100%;" style="max-width:100%;"></a>
-
 ## <img src="https://img.icons8.com/color/26/000000/source-code.png"/> Languages
 <a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" >
