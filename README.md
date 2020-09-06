@@ -11,7 +11,7 @@
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/office/16/000000/console.png"/>
+<img src="https://img.icons8.com/office/48/000000/console.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
 
