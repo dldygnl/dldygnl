@@ -6,12 +6,13 @@
 <a href="mailto:2542067802@qq.com"><img src="https://img.shields.io/badge/QQ-%23EB1923.svg?&style=for-the-badge&logo=Tencent%20QQ&logoColor=white" style="max-width:100%;"></a>
 <a href="itsjeffersonli.github.io/wechat"><img src="https://img.shields.io/badge/WeChat-%237BB32E.svg?&style=for-the-badge&logo=WeChat&logoColor=white" style="max-width:100%;" style="max-width:100%;"></a>
 ## <img src="https://img.icons8.com/color/26/000000/source-code.png"/> Languages
-<a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" >
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" >
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" >
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
+<a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/office/16/000000/console.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
 
 ![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=synthwave&hide=javascript&layout=compact)
