@@ -20,7 +20,7 @@
 
 ## <img src="https://img.icons8.com/fluent/26/000000/administrative-tools.png"/> Tools
 <a><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -29,6 +29,7 @@
 
 ## <img src="https://img.icons8.com/color/26/000000/operating-system--v1.png"/>  Operating Systems
 <a><img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 <img src="https://img.icons8.com/material/48/000000/mac-client.png"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
