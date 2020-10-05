@@ -13,7 +13,7 @@
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/office/48/000000/console.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 ![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=synthwave&hide=javascript&layout=compact)
 
