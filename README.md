@@ -5,6 +5,8 @@
 <a href="mailto:lijohnjefferson@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="mailto:2542067802@qq.com"><img src="https://img.shields.io/badge/QQ-%23EB1923.svg?&style=for-the-badge&logo=Tencent%20QQ&logoColor=white" style="max-width:100%;"></a>
 <a href="itsjeffersonli.github.io/wechat"><img src="https://img.shields.io/badge/WeChat-%237BB32E.svg?&style=for-the-badge&logo=WeChat&logoColor=white" style="max-width:100%;" style="max-width:100%;"></a>
+
+
 ## <img src="https://img.icons8.com/color/26/000000/source-code.png"/> Languages
 <a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -39,14 +41,14 @@
 
 ![itsjeffersonli github stats](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api?username=itsjeffersonli&show_icons=true&theme=synthwave)
 
-## CTF Platforms
+## <img src="https://img.icons8.com/doodle/26/000000/finish-flag.png"/> CTF Platforms
 ### TryHackMe
 <img src="https://github.com/itsjeffersonli/itsjeffersonli/blob/master/RUN3.png">
 
 ### HacktheBox
 <img src="http://www.hackthebox.eu/badge/image/223654" alt="Hack The Box">
 
-## Code Trace 
+## <img src="https://img.icons8.com/ios-filled/26/000000/google-code.png"/>Code Trace 
 <a href="https://codetrace.com/users/itsjeffersonli"><img src="https://codetrace.com/widget/itsjeffersonli" width="220" height="50" /></a>
 
 ## <img src="https://img.icons8.com/doodle/26/000000/money.png"/> Donations
