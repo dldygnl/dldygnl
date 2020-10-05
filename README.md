@@ -48,7 +48,7 @@
 ### HacktheBox
 <img src="http://www.hackthebox.eu/badge/image/223654" alt="Hack The Box">
 
-## <img src="https://img.icons8.com/ios-filled/26/000000/google-code.png"/>Code Trace 
+## <img src="https://img.icons8.com/ios-filled/26/000000/google-code.png"/> Code Trace 
 <a href="https://codetrace.com/users/itsjeffersonli"><img src="https://codetrace.com/widget/itsjeffersonli" width="220" height="50" /></a>
 
 ## <img src="https://img.icons8.com/doodle/26/000000/money.png"/> Donations
