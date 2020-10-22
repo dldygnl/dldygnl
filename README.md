@@ -10,8 +10,9 @@
 
 ## <img src="https://img.icons8.com/color/26/000000/source-code.png"/> Languages
 <a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/php.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/office/48/000000/console.png"/>
