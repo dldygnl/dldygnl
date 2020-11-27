@@ -3,9 +3,9 @@
 <a href="https://www.facebook.com/itsjeffersonli"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/john-jefferson-li-3b86811b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
 <a href="mailto:lijohnjefferson@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:2542067802@qq.com"><img src="https://img.shields.io/badge/QQ-%23EB1923.svg?&style=for-the-badge&logo=Tencent%20QQ&logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:2105995651@qq.com"><img src="https://img.shields.io/badge/QQ-%23EB1923.svg?&style=for-the-badge&logo=Tencent%20QQ&logoColor=white" style="max-width:100%;"></a>
 <a href="mailto:yiyohwi@naver.com"><img src="https://img.shields.io/badge/네이버-%2381B441.svg?&style=for-the-badge&logo=Envato&logoColor=green" style="max-width:100%;"></a>
-<a href="johnjefferson.rf.gd/wechat.jpg"><img src="https://img.shields.io/badge/微信-%237BB32E.svg?&style=for-the-badge&logo=WeChat&logoColor=white" style="max-width:100%;" style="max-width:100%;"></a>
+<a href="https://johnjeffersonli.com/wechat.jpg"><img src="https://img.shields.io/badge/微信-%237BB32E.svg?&style=for-the-badge&logo=WeChat&logoColor=white" style="max-width:100%;" style="max-width:100%;"></a>
 <a href="https://weibo.com/7412800321/profile"><img src="https://img.shields.io/badge/微博-%23E6162D.svg?&style=for-the-badge&logo=Sina%20Weibo&logoColor=white" style="max-width:100%;" style="max-width:100%;"></a>
 
 
