@@ -15,11 +15,9 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/php.png"/>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/office/48/000000/console.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 ![Top Langs](https://github-readme-stats-git-master.itsjeffersonli.vercel.app/api/top-langs/?username=itsjeffersonli&theme=synthwave&hide=css&layout=compact)
 
