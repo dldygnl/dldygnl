@@ -50,4 +50,5 @@
 <a href="https://www.buymeacoffee.com/itsjeffersonli" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FF813F.svg?&style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white" style="max-width:100%;" ></a>
 
 ### Certifications
-<a href="https://verified.elearnsecurity.com/certificates/c27c679a-faae-40ea-86ed-26ef534d65e2">eJPT</a>
+<a href="https://verified.elearnsecurity.com/certificates/c27c679a-faae-40ea-86ed-26ef534d65e2">eLearnSecurity Junior Penetration Tester</a>
+<a href="https://verified.elearnsecurity.com/certificates/76695279-6878-4ce2-87ef-4802a33523cb">eLearnSecurity Certified Professional Penetration Tester</a>
